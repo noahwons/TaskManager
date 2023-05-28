@@ -1,6 +1,4 @@
 # TaskManager
-A program to store tasks and edit them on a test-based terminal
-# TaskManager
 #### Video Demo:  https://youtu.be/MFiSZ3vivt8
 #### Description: A program designed to store tasks and allow the user to edit saved input
 
